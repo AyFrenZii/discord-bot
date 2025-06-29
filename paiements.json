@@ -1,0 +1,12 @@
+{
+    "MiseCore": {
+        "PayPal": "https://paypal.me/cyberliferf?country.x=FR&locale.x=fr_FR",
+        "IBAN": "Non renseign\u00e9",
+        "Crypto": "LTC : MM31Y5rQjCqMs5i2ctGEhS8f6NAinwy4z5"
+    },
+    "Manimo": {
+        "PayPal": "Non renseign\u00e9",
+        "IBAN": "Non renseign\u00e9",
+        "Crypto": "adresse LTC : LgHNreKh6GG5NfBC2yoB5cmH9EvquyQpE2"
+    }
+}
